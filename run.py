@@ -1,6 +1,6 @@
 import threading
 import os
-
+import logging
 def run_script(script_name):
     os.system(f'python3 {script_name}')
 
