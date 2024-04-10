@@ -1,5 +1,6 @@
 import os
 import subprocess
+import logging
 
 def delete_file_if_exists(filename):
     if os.path.exists(filename):
