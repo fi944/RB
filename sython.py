@@ -1,6 +1,7 @@
 import os
 import json
 import requests
+import logging
 import subprocess
 A = '\033[1;34m'#ازرق
 X = '\033[1;33m' #اصفر
